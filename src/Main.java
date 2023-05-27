@@ -3,9 +3,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        int x = 10000; // стоимость билета
-        int y = 20; // стоимость одной мили
-        System.out.println( x / y);
+        int price = 10000; // стоимость билета
+        int bonus = 20; // стоимость одной мили
+        System.out.println( price / bonus);
 
     }
 }
